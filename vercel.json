@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/wechat",
+      "methods": ["GET", "POST"],
+      "dest": "/api/wechat.js"
+    }
+  ]
+}
